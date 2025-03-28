@@ -24,7 +24,7 @@
 - [Images / Icons / Graphics](#images)
 - [Files / Documents](#files)
 - [Time](#time)
-- [Animations](#animations)
+- [Animations](#Animation)
 - [Charts](#charts)
 - [Sidebar / Side Menu](#sidebar)
 - [Bottom Navigation Bar / Floating Menu](#navigation-bar)
@@ -167,7 +167,7 @@
 | [no_screenshot](https://pub.dev/packages/no_screenshot) | Enable/disable screenshot functionality | 2024-08-24 | 160 |
 | [android_overlay](https://pub.dev/packages/android_overlay) | Display overlays on Android system UI | 2025-02-26 | 12 |
 
-### Project Essentials
+### <a id="projects">projects</a>
 
 | Package | Description | Updated | Likes |
 |---------|------------|---------|-------|
@@ -210,7 +210,7 @@
 | [flutter_background_service](https://pub.dev/packages/flutter_background_service) | Background Dart code execution | 2024-12-21 | 1.4k |
 | [cron](https://pub.dev/packages/cron) | Time-based job scheduler | 2024-06-16 | 559 |
 
-### List & Grid Widgets
+> ### <a id="Lists">Lists / Lists</a>
 
 | Package | Description | Updated | Likes |
 |---------|------------|---------|-------|
@@ -234,7 +234,7 @@
 | [flutter_slidable](https://pub.dev/packages/flutter_slidable) | Directional swipe actions for list items | 2025-01-23 | 5.8k |
 | [super_sliver_list](https://pub.dev/packages/super_sliver_list) | High-performance SliverList alternative | 2024-03-26 | 226 |
 
-> ### <a id="UI">UI / 小部件</a>
+> ### <a id="UI">UI / Widgets</a>
 
 ### UI Components & Widgets
 
@@ -329,7 +329,7 @@
 | [u_credit_card](https://pub.dev/packages/u_credit_card) | Beautiful credit card UI | 2024-10-26 | 59 |
 | [wizard_stepper](https://pub.dev/packages/wizard_stepper) | Customizable wizard stepper | 2025-02-18 | 38 |
 
-### Audio & Video Packages
+> ### <a id=" audio-video"> audio-video /  audio-video</a>
 
 | Package | Description | Updated | Likes |
 |---------|------------|---------|-------|
@@ -461,7 +461,6 @@
 | [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | Enables easy selection of single dates or date ranges.                                                                 | 2025-03-12 | 1.56k |
 | [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar) | Nine configurable built-in views for efficient scheduling and event representation.                                     | 2025-03-11 | 1.48k |
 | [timelines_plus](https://pub.dev/packages/timelines_plus)                 | Powerful yet easy-to-use Flutter timeline package.                                                                          | 2025-01-16 | 129   |
-
 
 ### <a id="animation">Animation</a>
 
