@@ -210,7 +210,7 @@
 | [flutter_background_service](https://pub.dev/packages/flutter_background_service) | Background Dart code execution | 2024-12-21 | 1.4k |
 | [cron](https://pub.dev/packages/cron) | Time-based job scheduler | 2024-06-16 | 559 |
 
-> ### <a id="Lists">Lists / Lists</a>
+> ### <a id="Lists">Lists</a>
 
 | Package | Description | Updated | Likes |
 |---------|------------|---------|-------|
