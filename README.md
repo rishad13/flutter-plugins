@@ -26,9 +26,9 @@
 - [Time](#time)
 - [Animations](#Animation)
 - [Charts](#charts)
-- [Sidebar / Side Menu](#sidebar)
+- [Sidebar / Side Menu](#Sidebar)
 - [Bottom Navigation Bar / Floating Menu](#navigation-bar)
-- [Dialogs / Bottom Sheets / Toast](#dialogs)
+- [Dialogs / Bottom Sheets / Toast](#Dialogs)
 - [Windows / Linux / Mac](#cross-platform)
 - [Communication / API](#communication)
 - [AI](#AI)
@@ -506,7 +506,7 @@
 | [flutter_graph_view](https://pub.dev/packages/flutter_graph_view)         | Widget for visualizing graph data structures like force-directed graphs                                                | 2024-11-04 | 65    |
 | [nimble_charts](https://pub.dev/packages/nimble_charts)                   | Actively maintained fork of charts_flutter, providing powerful and flexible charting for Flutter developers           | 2024-12-13 | 44    |
 
-### <a id="sidebar">Sidebar / Side Menu</a>
+### <a id="sidebar">Sidebar</a>
 
 | Dependency                                                                 | Description                                                                                     | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -515,7 +515,7 @@
 | [flutter_slider_drawer](https://pub.dev/packages/flutter_slider_drawer)   | Flutter package with custom Slider Drawer Menu implementation                                | 2025-01-16 | 527   |
 | [flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)       | Custom implementation of side menu (drawer)                                                  | 2024-02-26 | 1.07k |
 
-### <a id="navigation">Bottom Navigation Bar / Floating Menu</a>
+### <a id="navigation">navigation-bar</a>
 
 | Dependency                                                                 | Description                                                                                     | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -527,7 +527,7 @@
 | [circular_menu](https://pub.dev/packages/circular_menu)                   | Simple yet versatile animated circular menu                                                   | 2024-05-28 | 496   |
 | [smooth_sheets](https://pub.dev/packages/smooth_sheets)                   | Provides modal and persistent sheet widgets                                                  | 2024-10-19 | 352   |
 
-### <a id="dialogs">Dialogs / Bottom Sheets / Toasts</a>
+### <a id="dialogs">Dialogs</a>
 
 | Dependency                                                                 | Description                                                                                                             | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -548,7 +548,7 @@
 | [upgrader](https://pub.dev/packages/upgrader)                             | Prompts users to upgrade when a newer app version is available in stores                                              | 2024-12-07 | 2.25k |
 | [modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)         | Create awesome and powerful modal bottom sheets                                                                       | 2024-03-12 | 3.46k |
 
-### <a id="cross-platform">Windows / Linux / macOS</a>
+### <a id="cross-platform">cross-platform</a>
 
 | Dependency                                                                 | Description                                                                                                                             | Updated    | Likes |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -573,7 +573,7 @@
 | [rename](https://pub.dev/packages/rename)                                 | Helps change BundleId and AppName for iOS, Android, macOS and Linux Flutter projects                                                 | 2024-03-07 | 1.21k |
 | [desktop_multi_window](https://pub.dev/packages/desktop_multi_window)     | Creates and manages multiple windows in Flutter desktop applications                                                                  | 2024-12-30 | 237   |
 
-### <a id="communication">Communication & APIs</a>
+### <a id="communication">communication</a>
 
 | Dependency                                                                 | Description                                                                                                             | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -630,7 +630,7 @@
 | [opencv_dart](https://pub.dev/packages/opencv_dart)                        | OpenCV4 bindings using dart:ffi (includes videoio module)                                                              | 2025-02-11 | 90    |
 | [shorebird_code_push](https://pub.dev/packages/shorebird_code_push)        | Hot updates with Shorebird Code Push Updater                                                                           | 2025-02-07 | 373   |
 
->### <a id="ai-ml">AI & Machine Learning</a>
+>### <a id="ai-ml">AI</a>
 
 | Dependency                                                                 | Description                                                                                                             | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -666,7 +666,7 @@
 | [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)   | Neural network (LSTM) based OCR engine supporting 100+ languages with Unicode (UTF-8) support                       | 2024-11-10 | 197   |
 | [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit)         | Collection of AI chat-related widgets for Flutter apps                                                               | 2025-01-27 | 115   |
 
-### <a id="maps">Maps & Location</a>
+### <a id="maps">maps</a>
 
 | Dependency                                                                 | Description                                                                                                             | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -687,7 +687,7 @@
 | [flutter_bmflocation](https://pub.dev/packages/flutter_bmflocation)       | Baidu Maps Location Flutter plugin                                                                                  | 2025-01-03 | 27    |
 | [location](https://pub.dev/packages/location)                             | Handles real-time location on iOS and Android                                                                        | 2025-01-23 | 3.11k |
 
-### <a id="advertising">Advertising</a>
+### <a id="advertising">ads</a>
 
 | Dependency                                                                 | Description                                                                                                             | Updated    | Likes |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
