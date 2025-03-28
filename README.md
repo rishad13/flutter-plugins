@@ -18,7 +18,7 @@
 - [Plugins](#plugins)
 - [Devices](#devices)
 - [Projects](#projects)
-- [Lists](#lists)
+- [Lists](#Lists)
 - [UI / Widgets](#UI)
 - [Audio & Video](#audio-video)
 - [Images / Icons / Graphics](#images)
